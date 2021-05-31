@@ -1,3 +1,5 @@
+## Uwaga!!! Aby przejść do zadań wejdź na gałąź master.
+
 # Pierwsze zadanie
 
 Pierwsze zadanie polega na wypełnieniu funkcji addCar(Car car) wykorzystując odpowiednie metody. Należy spełnić także określone warunki: 
