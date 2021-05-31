@@ -1,4 +1,4 @@
-## Uwaga!!! Aby przejść do zadań wejdź na gałąź master.
+## Uwaga!!! Aby przejść do zadań wejdź na gałąź master (lewy górny róg).
 
 # Pierwsze zadanie
 
